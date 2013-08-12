@@ -8,4 +8,6 @@ Various git commands, links and documentation
 
 -[git book section 6.6 - submodules](http://git-scm.com/book/en/Git-Tools-Submodules)
 
--[gitHub login credentials ](https://help.github.com/articles/why-is-git-always-asking-for-my-password)
+-[gitHub https login credentials](http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-github)
+
+-[gitHub ssh login credentials ](https://help.github.com/articles/why-is-git-always-asking-for-my-password)
