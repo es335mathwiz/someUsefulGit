@@ -11,3 +11,5 @@ Various git commands, links and documentation
 -[gitHub https login credentials](http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-github)
 
 -[gitHub ssh login credentials ](https://help.github.com/articles/why-is-git-always-asking-for-my-password)
+
+-[signing a commit]{http://mikegerwitz.com/papers/git-horror-story.html)
