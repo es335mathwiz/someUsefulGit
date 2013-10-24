@@ -12,6 +12,6 @@ Various git commands, links and documentation
 
 -[gitHub ssh login credentials ](https://help.github.com/articles/why-is-git-always-asking-for-my-password)
 
--[signing a commit]{http://mikegerwitz.com/papers/git-horror-story.html)
+-[signing a commit](http://mikegerwitz.com/papers/git-horror-story.html)
 
 -[submodules and gitHub](http://joncairns.com/2011/10/how-to-use-git-submodules/)
