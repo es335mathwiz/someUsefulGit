@@ -15,3 +15,5 @@ Various git commands, links and documentation
 -[signing a commit](http://mikegerwitz.com/papers/git-horror-story.html)
 
 -[submodules and gitHub](http://joncairns.com/2011/10/how-to-use-git-submodules/)
+
+-[git remote tags](http://wptheming.com/2011/04/add-remove-github-tags/)
