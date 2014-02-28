@@ -17,3 +17,5 @@ Various git commands, links and documentation
 -[submodules and gitHub](http://joncairns.com/2011/10/how-to-use-git-submodules/)
 
 -[git remote tags](http://wptheming.com/2011/04/add-remove-github-tags/)
+
+-[git flow command line](https://github.com/nvie/gitflow/wiki/Command-Line-Arguments)
