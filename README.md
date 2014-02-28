@@ -19,3 +19,5 @@ Various git commands, links and documentation
 -[git remote tags](http://wptheming.com/2011/04/add-remove-github-tags/)
 
 -[git flow command line](https://github.com/nvie/gitflow/wiki/Command-Line-Arguments)
+
+-[cherry-picking merge from forked repository](http://stackoverflow.com/questions/1405030/using-git-how-can-i-selectively-pull-merge-changes-from-anothers-fork)
