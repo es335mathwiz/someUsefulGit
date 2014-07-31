@@ -3,6 +3,7 @@ someUsefulGit
 
 Various git commands, links and documentation
 
+-[git Submodules Cheat Sheet](http://blog.jacius.info/git-submodule-cheat-sheet) used to set up simpleTrySubmodules
 
 -[git Submodule Tutorial](https://git.wiki.kernel.org/index.php/GitSubmoduleTutorial)
 
